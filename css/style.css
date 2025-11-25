@@ -108,7 +108,6 @@ a:hover { text-decoration: underline; }
 .nav-toggle-label span::before { position: absolute; top: -7px; }
 .nav-toggle-label span::after  { position: absolute; top: 7px; }
 
-/* HERO SECTION*/
 .hero {
   background: radial-gradient(1200px 400px at 50% 0%, #1b1b22, transparent 60%);
   border-bottom: 1px solid var(--bord);
@@ -391,3 +390,4 @@ a:hover { text-decoration: underline; }
   object-fit: cover;
   border-radius: 10px;
 }
+
